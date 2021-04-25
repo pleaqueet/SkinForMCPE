@@ -9,6 +9,7 @@
 
 
     <ImageView
+        android:visibility="visible"
         android:elevation="10dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
